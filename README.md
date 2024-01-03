@@ -7,4 +7,8 @@
 <!---
 sean007a/sean007a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->mkdir "Git & GitHub the First Stepps
+--->mkdir "Git & GitHub the First Steps"
+git --version
+https://git.scm.com/download/Win
+
+
