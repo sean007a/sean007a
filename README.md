@@ -9,10 +9,7 @@ sean007a/sean007a is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->mkdir "Git & GitHub the First Steps"
 git --version
-https://git.scm.com/download/Win
-git --version brew install git
-git config --global user.name "Sean Parry"
-git config --global user.email parrysean256@gmail.com
+
 
 
 
