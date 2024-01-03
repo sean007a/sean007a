@@ -12,7 +12,7 @@ git --version
 https://git.scm.com/download/Win
 git --version brew install git
 git config --global user.name "Sean Parry"
-git config --global user.email parrysean256@gmail.com.uk
+git config --global user.email parrysean256@gmail.com
 
 
 
