@@ -10,5 +10,8 @@ You can click the Preview link to take a look at your changes.
 --->mkdir "Git & GitHub the First Steps"
 git --version
 https://git.scm.com/download/Win
+git --version brew install git
+
+
 
 
