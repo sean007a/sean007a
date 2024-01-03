@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me parrysean256@gmail.com
 sean007a/sean007a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub pr
+git --version
 
 
 
